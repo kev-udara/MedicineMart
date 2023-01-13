@@ -1,0 +1,94 @@
+[
+    {
+      "imgUrl": "https://www.unionchemistspharmacy.lk/wp-content/uploads/2022/12/NOW-VITAMIN-D-31000IU.jpg",
+      "name": "NOW HIGH POTENCY VITAMIN D-3 1000IU (180 Softgels)",
+      "price": 3780,
+      "description": "High Potency, Helps Maintain Strong Bones, Supports Immune System.",
+      "id": 1
+    },
+    {
+      "imgUrl": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://www.unionchemistspharmacy.lk/wp-content/uploads/2021/11/Eventone-C-Cream.jpg",
+      "name": "EVENTONE-C CREAM 30g",
+      "price": 6300,
+      "description": "L-Glutathione + Vitamin C Cream, To treat Skin Darkness, Intensive skin fairness, For Men & Women.",
+      "id": 2
+    },
+    {
+      "imgUrl": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://www.unionchemistspharmacy.lk/wp-content/uploads/2022/11/Peptisol-189g-600x600.jpg",
+      "name": "PEPTISOL VANILLA 189g (3 sachets of 63g)",
+      "price": 2754,
+      "description": "High Protein Purpose Formulated Food Mix.",
+      "id": 3
+    },
+    {
+      "imgUrl": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://www.unionchemistspharmacy.lk/wp-content/uploads/2021/11/Isocal-600x600.png",
+      "name": "ISOCAL POWDER 425g",
+      "price": 4795,
+      "description": "Provides isotonic feeding (Osmolality; 300 mOsm/kg water at 1 kcal/ml dilution )",
+      "id": 4
+    },
+    {
+      "imgUrl": "https://jeewakapharmacy.lk/wp-content/uploads/2020/12/sustagen-vanilla-400g-600x600.jpg",
+      "name": "SUSTAGEN NUTRITIONAL SUPPLEMENT 400g – VANILLA",
+      "price": 3900,
+      "description": "Nutritional Supplement Powder, High Calcium Contains High quality Protein, Vitamins & Minerals",
+      "id": 5
+    },
+    {
+      "imgUrl": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_500,h_500/https://www.unionchemistspharmacy.lk/wp-content/uploads/2021/07/Glutanex-Tablets-100.jpeg",
+      "name": "GLUTANEX GLUTATHION TABLETS 100mg",
+      "price": 18990,
+      "description": "Glutanex Tabs are manufactured with 100% medical graded Glutathione.",
+      "id": 6
+    },
+    {
+      "imgUrl": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://www.unionchemistspharmacy.lk/wp-content/uploads/2022/04/Memorol-G.jpg",
+      "name": "BioDHA MEMOROL® G",
+      "price": 9957,
+      "description": "Clinically proven nutrition for Memory improvement. Helps prevent age related memory loss. Helps maintain Brain Performance.",
+      "id": 7
+    },
+    {
+      "imgUrl": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://www.unionchemistspharmacy.lk/wp-content/uploads/2022/03/Naturesway-Immune-Support.jpg",
+      "name": "NATURE’S WAY IMMUNE SUPPORT 100S",
+      "price": 5400,
+      "description": "Give your immune system year-round support and help reduce common cold duration.",
+      "id": 8
+    },
+    {
+      "imgUrl": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://www.unionchemistspharmacy.lk/wp-content/uploads/2020/01/Bio-Oil-125ml.jpg",
+      "name": "BIO-OIL 125ml",
+      "price": 1800,
+      "description": "Specialist Skincare Oil for : Scars, Stretch Marks, Ageing & Dehydrated Skin.",
+      "id": 9
+    },
+    {
+      "imgUrl": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://www.unionchemistspharmacy.lk/wp-content/uploads/2022/06/Vetzyme-Stress-Powder-150g.jpg",
+      "name": "VETZYME STRESS POWDER (150g)",
+      "price": 2220,
+      "description": "Stress-a mineral & vitamin complementary pet food for dogs & cats. Promotes Strong Teeth & Bones.",
+      "id": 10
+    },
+    {
+      "imgUrl": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://www.unionchemistspharmacy.lk/wp-content/uploads/2021/10/Brands-of-Chicken-1.jpg",
+      "name": "BRANDS ESSENCE OF CHICKEN ORIGINAL 41ml",
+      "price": 630,
+      "description": "Essence Of Chicken, Fat Free, Cholesterol Free.",
+      "id": 11
+    },
+    {
+      "imgUrl": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://www.unionchemistspharmacy.lk/wp-content/uploads/2022/12/Noreva-Actipure-150ml.jpg",
+      "name": "NOREVA ACTIPUR CLEANSING GEL 150ml",
+      "price": 3990,
+      "description": "Specially designed to cleanse oily skin with imperfections gently, Actipur Cleansing Gel removes impurities and purifies the skin without irritating it.",
+      "id": 12
+    },
+    {
+      "imgUrl": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_600,h_600/https://www.unionchemistspharmacy.lk/wp-content/uploads/2021/11/Pharmaceris-Sun-Protection-50.jpg",
+      "name": "Pharmaceris S Spectrum Protect Broad Spectrum Sun Protection Cream SPF50+ 50ml",
+      "price": 4900,
+      "description": "Designed for very sensitive, delicate skin that reacts to sun exposure",
+      "id": 13
+    }
+
+  ]
