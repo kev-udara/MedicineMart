@@ -33,5 +33,5 @@ export class LoginComponent implements OnInit {
   private setError(msg: any){
     return this.error.next(msg);
   }
-
+  hide= true;
 }

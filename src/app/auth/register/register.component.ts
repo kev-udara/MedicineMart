@@ -69,5 +69,5 @@ export class RegisterComponent implements OnInit {
 
   ngOnInit() {
   }
-
+hide= true;
 }
