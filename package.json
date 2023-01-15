@@ -48,7 +48,6 @@
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.7.5",
     "morgan": "^1.10.0",
-    "mpath": "^0.8.4",
     "passport": "^0.6.0",
     "passport-jwt": "^4.0.1",
     "passport-local": "^1.0.0",
