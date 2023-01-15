@@ -201,11 +201,11 @@ var ProductsComponent = /** @class */ (function () {
         this.subscriptions = [];
         this.displayedColumns = ['imgUrl', 'name', 'description', 'price', 'action',];
         this.slides = [
-            { 'image': '../../../assets/Tablet_Summer 2019_Desrosiers.jpg' },
-            { 'image': '../../../assets/pharmacist-wearing-face-mask-white-coat-holding-medicine-pharmacy-store-during-corona-virus-pandemic_308072-601.webp' },
-            { 'image': '../../../assets/EzrWyOoXMAUlvHI.jpeg' },
-            { 'image': '../../../assets/three-pharmacists-helping-each-other-1fgcvulokjazfbyb.jpg' },
-            { 'image': '../../../assets/Pharmacists.jpg' }
+            { 'image': 'assets/Tablet_Summer 2019_Desrosiers.jpg' },
+            { 'image': 'assets/pharmacist-wearing-face-mask-white-coat-holding-medicine-pharmacy-store-during-corona-virus-pandemic_308072-601.webp' },
+            { 'image': 'assets/EzrWyOoXMAUlvHI.jpeg' },
+            { 'image': 'assets/three-pharmacists-helping-each-other-1fgcvulokjazfbyb.jpg' },
+            { 'image': 'assets/Pharmacists.jpg' }
         ];
     }
     ProductsComponent.prototype.ngOnInit = function () {
