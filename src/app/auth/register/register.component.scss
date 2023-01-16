@@ -1,14 +1,14 @@
 .register-body{
-    background-size: contain;
+    background-size: cover;
 }
 .register-card{
     width: 420px;
     height: 410px;
-    background-color: rgb(41, 113, 107);
+    background-color: rgb(41, 91, 113);
     border-radius: 15px;
     top: 130px;
     left: 80px;
-    opacity: 95%;
+    opacity: 90%;
 }
 
 .register-card-title{
@@ -18,14 +18,14 @@
 
 
 .register-button{
-    background-color: rgb(61, 166, 156);
+    background-color: rgb(61, 141, 166);
 }
 
 .register-login-link{
     margin-left: 15px;
 }
 .link{
-    color: rgb(61, 166, 156);
+    color: rgb(61, 141, 166);
 }
 
 .full-width{
