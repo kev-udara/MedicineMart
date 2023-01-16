@@ -7,10 +7,13 @@ table {
   }
   
   .empty-cart {
+    background-image: url('../../../assets/empty-cart-background-five.jpeg');
+    background-size: cover;
     text-align: center;
     padding: 100px;
     border-radius: 0%;
-    
+    height: 50%;
+    width: 86.1%;
   }
   
   $iconWidth: 50px;

@@ -87,8 +87,44 @@
       "imgUrl": "./assets/products/Pharmaceris-Sun-Protection-50-removebg-preview.png",
       "name": "Pharmaceris S Spectrum Protect Broad Spectrum Sun Protection Cream SPF50+ 50ml",
       "price": 4900,
-      "description": "Designed for very sensitive, delicate skin that reacts to sun exposure",
+      "description": "Designed for very sensitive, delicate skin that reacts to sun exposure.",
       "id": 13
+    },
+    {
+      "imgUrl": "./assets/products/Pharmaceris-Sun-Protection-50-removebg-preview.png",
+      "name": "VOLTAREN EMULGEL® 50g",
+      "price": 680,
+      "description": "Relieves pain, Reduces swelling, Speeds up the natural healing.",
+      "id": 14
+    },
+    {
+      "imgUrl": "./assets/products/Surgihoney-RO-20g-removebg-preview.png",
+      "name": "SurgiHoneyRO STERILE WOUND GEL 20g",
+      "price": 8140,
+      "description": "SurgihoneyRO is a safe and effective multi-action product without the drawbacks of other antimicrobial wound dressings.",
+      "id": 15
+    },
+    {
+      "imgUrl": "./assets/products/SP-7203-600x600-removebg-preview.png",
+      "name": "Rexi Care Soft Cold / Hot Gel Pack (L)",
+      "price": 3180,
+      "description": "Soft Cold / Hot Gel Pack (I), First Aid Items.",
+      "id": 16
+    },
+    {
+      "imgUrl": "./assets/products/Face-masks-Imedra-removebg-preview.png",
+      "name": "Face Masks (5pcs)",
+      "price": 50,
+      "description": "3 layer protection, High resistance rate.",
+      "id": 17
+    },
+    {
+      "imgUrl": "./assets/products/AND-UA-611-removebg-preview.png",
+      "name": "AND (A&D) Blood Pressure Monitor UA-611",
+      "price": 14900,
+      "description": "Irregular HeartBeat (IHB) indicator.",
+      "id": 18
     }
+
 
   ]
