@@ -5,7 +5,8 @@ import { ChangeDetectionStrategy } from '@angular/core';
   selector: 'pm-header',
   templateUrl: './header.component.html',
   styleUrls: ['./header.component.scss'],
-  changeDetection: ChangeDetectionStrategy.OnPush
+  changeDetection: ChangeDetectionStrategy.OnPush,
+  
 })
 export class HeaderComponent implements OnInit {
 

@@ -1,5 +1,5 @@
 import { Component, OnDestroy, OnInit } from '@angular/core';
-import { Router } from '@angular/router';
+import { Router, RouterOutlet } from '@angular/router';
 import { merge, Observable, Subscription } from 'rxjs';
 import { AuthService } from '../../core/auth/auth.service';
 import { User } from '../../core/user';
@@ -23,6 +23,8 @@ export class AppComponent implements  OnInit{
     this.authService.logout();
     this.router.navigate(['/']);
   }
+
+
 
   
 
