@@ -4,6 +4,7 @@ const debug = require('debug')('express-mongoose-es6-rest-api:index');
 const config = require('../config/config');
 
 const mongoUri = config.mongo.uri;
+const mongoRemoteUri = config.remoteUrl
 
 mongoose.connect(mongoUri, { keepAlive: 1, useNewUrlParser: true });
 
