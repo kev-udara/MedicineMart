@@ -31,6 +31,8 @@ jobs:
             source ~/.nvm/nvm.sh
             npm install
             npm run build
+            rm -rfv /var/www/html/
+            mkdir /var/www/html/
             mv dist/*  /var/www/html/
             pm2 delete index
             pm2 start server/index.js
