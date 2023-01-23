@@ -37,7 +37,7 @@ app.use(cors());
 app.use(passport.initialize());
 
 // api router localhost:4050/api
-app.use('/api/', routes);
+app.use('/', routes);
 
 // serve the index.html
 //app.get('*', (req, res) => res.sendFile(path.join(distDir,
