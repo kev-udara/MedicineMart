@@ -24,7 +24,7 @@ if(config.env === 'development'){
 //app.use(express.static(distDir));
 
 //parsing from api
-//app.use(bodyParser.json());
+app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
 
 //secure apps http
