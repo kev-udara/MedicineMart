@@ -16,7 +16,9 @@ export class AppComponent implements  OnInit{
 
   ngOnInit(): void {
     this.user$ = merge(this.authService.findMe(), this.authService.user);
+   
   }
+
   
 
   logout(){
